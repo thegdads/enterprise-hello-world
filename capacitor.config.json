@@ -1,0 +1,8 @@
+{
+  "appId": "com.thegdads.ehw",
+  "appName": "EHW",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "cordova": {}
+}
