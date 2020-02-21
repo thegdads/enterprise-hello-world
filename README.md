@@ -1,24 +1,13 @@
-# enterprise-hello-world
+# EHW
 
-## Project setup
-```
-npm install
-```
+Enterprise Hello World
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Dibuat menggunakan framework Reactjs, untuk pembelajaran cara convert web reactjs ke android app.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Instruksi menjalankan aplikasi web :
+1. npm install
+2. npm run serve
 
-### Lints and fixes files
-```
-npm run lint
-```
+Instruksi build: 
+1. npm run build
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
