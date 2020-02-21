@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <style>
+      .container, .object {
+        display: flex;
+        background-color: #f5f0df;
+      }
+      .container {
+        height:98vh;
+        justify-content: center;
+      }
+      .object {
+        align-items: center;
+      }
+      .subObject {
+        text-align: center;
+      }
+      h1 {
+        font-size: 5em;
+        text-decoration: underline;
+      }
+      h1, h4 {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="object">
+        <div class="subObject">
+          <h1 id="title"></h1>
+          <h4>Enterprise Hello World</h4>
+        </div>
+      </div>
+    </div>
+    <script>
+      document.getElementById('title').innerText = 'EHW';
+    </script>
+  </body>
+</html>
