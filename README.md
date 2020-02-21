@@ -2,7 +2,7 @@
 
 Enterprise Hello World
 
-Dibuat menggunakan framework Reactjs, untuk pembelajaran cara convert web reactjs ke android app.
+Dibuat menggunakan framework Vuejs, untuk pembelajaran cara convert web vuejs ke android app.
 
 Instruksi menjalankan aplikasi web :
 1. npm install
